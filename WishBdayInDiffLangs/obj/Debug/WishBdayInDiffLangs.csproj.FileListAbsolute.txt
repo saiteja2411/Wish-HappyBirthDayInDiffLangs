@@ -1,0 +1,14 @@
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\Bin\Debug\ApplicationIcon.png
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\Bin\Debug\Background.png
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\Bin\Debug\WishBdayInDiffLangs.dll
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\Bin\Debug\WishBdayInDiffLangs.pdb
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\Bin\Debug\AppManifest.xaml
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\Bin\Debug\WishBdayInDiffLangs.xap
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\ResolveAssemblyReference.cache
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\App.g.i.cs
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\MainPage.g.i.cs
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\Page1.g.i.cs
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\WishBdayInDiffLangs.g.resources
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\WishBdayInDiffLangs.dll
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\WishBdayInDiffLangs.pdb
+c:\users\s.saiteja\documents\visual studio 2010\Projects\WishBdayInDiffLangs\WishBdayInDiffLangs\obj\Debug\XapCacheFile.xml
